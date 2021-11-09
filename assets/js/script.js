@@ -129,7 +129,7 @@ $(".list-group").on("click", "span", function() {
   // get current text
   var date = $(this)
     .text()
-    .trim();
+    .trim()
 
   // create new input element
   var dateInput = $("<input>")
