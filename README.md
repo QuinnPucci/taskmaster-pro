@@ -1,4 +1,4 @@
-## Task Master Pro
+# Task Master Pro
 
   [Application live here](https://quinnpucci.github.io/taskmaster-pro/)
 
